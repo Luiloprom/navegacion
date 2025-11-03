@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">navegacion</string>
+    <string name="tvPrimera">Primera</string>
+    <string name="btnMostrar">Mostrar</string>
+    <string name="btnVolver">volver</string>
+    <string name="tvSegunda">Segunda</string>
+    <string name="etNombre">Nombre</string>
+    <string name="etApellido">Apellido</string>
+    <string name="etEdad">Edad</string>
+</resources>
