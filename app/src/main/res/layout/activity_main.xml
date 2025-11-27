@@ -63,6 +63,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="56dp"
         android:text="@string/btnMostrar"
+        android:onClick="mostrar"
         app:layout_constraintEnd_toEndOf="@+id/etEdad"
         app:layout_constraintStart_toStartOf="@+id/etEdad"
         app:layout_constraintTop_toBottomOf="@+id/etEdad" />

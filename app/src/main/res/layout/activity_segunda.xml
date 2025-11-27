@@ -24,6 +24,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="528dp"
         android:text="@string/btnVolver"
+        android:onClick="volver"
         app:layout_constraintEnd_toEndOf="@+id/tvSegunda"
         app:layout_constraintHorizontal_bias="0.515"
         app:layout_constraintStart_toStartOf="@+id/tvSegunda"
